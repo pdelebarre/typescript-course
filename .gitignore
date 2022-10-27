@@ -1,3 +1,5 @@
 MiniProject/node_modules
-MiniProject/dist/index.js
+MiniProject/dist/*.js
 classesrecap/node_modules
+classesrecap/dist/*.js
+.vscode
