@@ -3,3 +3,4 @@ MiniProject/dist/*.js
 classesrecap/node_modules
 classesrecap/dist/*.js
 .vscode
+generics/node_modules
