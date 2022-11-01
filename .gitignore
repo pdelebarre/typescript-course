@@ -4,3 +4,5 @@ classesrecap/node_modules
 classesrecap/dist/*.js
 .vscode
 generics/node_modules
+thirdpartylibs/node_modules
+thirdpartylibs/dist
