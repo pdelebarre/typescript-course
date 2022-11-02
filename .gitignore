@@ -6,3 +6,7 @@ classesrecap/dist/*.js
 generics/node_modules
 thirdpartylibs/node_modules
 thirdpartylibs/dist
+modules/node_modules
+modules/dist
+mymodules/node_modules
+mymodules/dist
